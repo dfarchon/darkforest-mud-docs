@@ -2,8 +2,8 @@ export default {
     index: "Start",      
     intro: "Introduction",
     enter: "Enter the Game",
-    playerguide: "Player Guide",
-    prizes: "Prizes",
+    celestialBodies: "Celestial Bodies",
+    spacetype: "Space Types",
     qa: "Q & A",
 }
 
